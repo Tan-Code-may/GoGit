@@ -1,1 +1,6 @@
 I didn't understand Rebasing and stash  
+
+
+Uses of Git and Github : 
+
+It is used to perform technical tasks with a team so that everyone in the team can do their task and others can see what he/she has done and work accordingly with the team.
