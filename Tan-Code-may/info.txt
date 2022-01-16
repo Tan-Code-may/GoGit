@@ -1,1 +1,3 @@
 Reset and its various commands like hard.
+Git/GitHub is used as an open source distributed version control system for open source projects.
+For us learning it is the pathway to GSOC.
