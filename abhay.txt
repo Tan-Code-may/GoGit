@@ -24,3 +24,6 @@ git pull
 
 create a pull request:
 Ansh212
+
+SanyamAgrawal07:
+git fetch/ git pull

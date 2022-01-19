@@ -1,0 +1,5 @@
+I didnt like not understand a full topic coz I was clearing my doubts as it went, but I do have pending task
+of revisiting the concept of rebasing and understanding it properly.
+
+Git / Github could be used to manage courses, projects and private stuff in repositories. For comfort it provides
+us with option to keep the repository public/private. It could also be used to make a website for free.
