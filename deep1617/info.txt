@@ -1,0 +1,3 @@
+rebasing and stash
+Git helps programmers collaborate, coordinate work, and work together on complex code and development projects.
+Git tracks changes and helps teams work remotely on intricate programs.
