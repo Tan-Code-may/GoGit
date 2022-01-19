@@ -1,1 +1,1 @@
-git pull origin Hulk (fetch and pull principle).
+git pull origin
