@@ -1,0 +1,2 @@
+resolving merge conflicts
+github is used to work on an open source project together. anybody can make changes that can be seen by other team members.
